@@ -10,7 +10,7 @@ const TRACKING_UPDATES = [
     product: "Parcel - 2 Laptops, 1 Watch.",
     history: [
       {
-        location: "Dispatch Gorakhpur",
+        location: "Dispatch Gorakhpura",
         status: "Out for Delivery",
         time: "2025-11-12 08:10 AM",
       },
