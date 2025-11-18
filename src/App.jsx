@@ -12,7 +12,7 @@ const TRACKING_UPDATES = [
       {
         location: "Dispatch Gorakhpur",
         status: "Out for Delivery",
-        time: "2025-11-12 08:10 AM",
+        time: "2025-11-18 10:10 AM",
       },
       // {
       //   location: "Reached Patna",
