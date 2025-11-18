@@ -14,16 +14,16 @@ const TRACKING_UPDATES = [
         status: "Out for Delivery",
         time: "2025-11-12 08:10 AM",
       },
-      {
-        location: "Reached Patna",
-        status: "In Transit",
-        time: "2025-11-11 03:45 PM",
-      },
-      {
-        location: "Arrived Jamshedpur",
-        status: "Arrived",
-        time: "2025-11-10 09:20 AM",
-      },
+      // {
+      //   location: "Reached Patna",
+      //   status: "In Transit",
+      //   time: "2025-11-11 03:45 PM",
+      // },
+      // {
+      //   location: "Arrived Jamshedpur",
+      //   status: "Arrived",
+      //   time: "2025-11-10 09:20 AM",
+      // },
     ],
   },
 ];
