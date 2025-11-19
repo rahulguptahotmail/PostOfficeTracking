@@ -24,6 +24,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-19 10:15 AM",
       },
+      {
+        location: "Reached Muzaffarpur",
+        status: "In Transit",
+        time: "2025-11-19 03:10 PM",
+      },
     ],
   },
 ];
