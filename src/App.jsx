@@ -34,6 +34,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-20 09:20 AM",
       },
+       {
+        location: "Dispatch from Patna...",
+        status: "Patna to Ranchi Route Cleared.",
+        time: "2025-11-21 09:40 AM",
+      },
     ],
   },
 ];
