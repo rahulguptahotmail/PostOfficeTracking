@@ -39,6 +39,11 @@ const TRACKING_UPDATES = [
         status: "Patna to Ranchi Route Cleared.",
         time: "2025-11-21 09:40 AM",
       },
+      {
+        location: "Reached Saharsha",
+        status: "In Transit",
+        time: "2025-11-21 02:30 PM",
+      },
     ],
   },
 ];
