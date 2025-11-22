@@ -44,6 +44,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-21 02:30 PM",
       },
+      {
+        location: "Reached Begusarai",
+        status: "In Transit",
+        time: "2025-11-22 09:00 AM",
+      },
     ],
   },
 ];
