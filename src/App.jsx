@@ -49,6 +49,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-22 09:00 AM",
       },
+      {
+        location: "Reached Rajgir",
+        status: "In Transit",
+        time: "2025-11-22 01:20 PM",
+      },
     ],
   },
 ];
