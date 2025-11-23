@@ -54,6 +54,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-22 01:20 PM",
       },
+      {
+        location: "Reached Koderma",
+        status: "In Transit",
+        time: "2025-11-23 09:25 AM",
+      },
     ],
   },
 ];
