@@ -64,6 +64,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-23 04:15 PM",
       },
+      {
+        location: "Reached Khalari",
+        status: "In Transit",
+        time: "2025-11-24 09:50 AM",
+      },
     ],
   },
 ];
