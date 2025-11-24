@@ -69,6 +69,11 @@ const TRACKING_UPDATES = [
         status: "In Transit",
         time: "2025-11-24 09:50 AM",
       },
+      {
+        location: "Reached Ranchi...",
+        status: "In Transit...",
+        time: "2025-11-24 01:40 PM",
+      },
     ],
   },
 ];
