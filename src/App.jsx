@@ -74,6 +74,11 @@ const TRACKING_UPDATES = [
         status: "In Transit...",
         time: "2025-11-24 01:40 PM",
       },
+      {
+        location: "Product Delivery Rejects.",
+        status: "Location Not Found.",
+        time: "2025-11-26 09:20 AM",
+      },
     ],
   },
 ];
