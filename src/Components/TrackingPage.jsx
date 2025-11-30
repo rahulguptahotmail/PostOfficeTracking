@@ -16,10 +16,10 @@ export default function TrackingPage(props) {
         Go Home
       </button>
       <h1 className="text-3xl font-bold mb-8 text-blue-700 tracking-wide text-center drop-shadow">
-        Shipment Tracking ID Dismissed...
+        Fast Delivery Shipment. 
       </h1>
 
-      {/* <div className="space-y-6">
+       <div className="space-y-6">
         {props.trackingUpdates.map((pkg) => (
           <motion.div
             key={pkg.id}
@@ -98,7 +98,7 @@ export default function TrackingPage(props) {
             </div>
           </motion.div>
         ))}
-      </div> */}
+      </div>
     </div>
   ) : (
     <TrackingIdInvalid />
