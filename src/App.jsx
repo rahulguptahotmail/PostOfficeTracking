@@ -7,7 +7,7 @@ import NotFound404 from "./Components/NotFound.jsx";
 const TRACKING_UPDATES = [
   {
     id: "P995342812IN",
-    product: "Parcel - 2 Laptops, 1 Watch.",
+    product: "Parcel - 1 Sony Laptop, 1 Watch.",
     history: [
       {
         location: "Dispatch Gorakhpur",
