@@ -39,15 +39,15 @@ export default function TrackingPage(props) {
             <div className="mb-4 ms-3">
               <div className="inline-block w-1/2 mb-3">
                 <h1 className="font-semibold text-gray-700">
-                  From: <span className="text-blue-500">Gorakhpur</span>
+                  From: <span className="text-blue-500">Gorakhpur Uttar Pradesh</span>
                 </h1>
                 <h1 className="font-semibold text-gray-700">
-                  To: <span className="text-blue-500">Jamshedpur</span>
+                  To: <span className="text-blue-500">TataNagar Jharkhand</span>
                 </h1>
               </div>
               <div className="inline-block w-1/2">
                 <h1 className="text-gray-700">
-                  Weight: <span className="font-medium">5 Kg</span>
+                  Weight: <span className="font-medium">3.5 Kg</span>
                 </h1>
                 <h1 className="text-gray-700">
                   Dimensions: <span className="font-medium">15x10x8</span>
