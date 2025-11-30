@@ -12,72 +12,27 @@ const TRACKING_UPDATES = [
       {
         location: "Dispatch Gorakhpur",
         status: "Out for Delivery",
-        time: "2025-11-18 10:10 AM",
+        time: "2025-11-29 10:10 AM",
       },
       {
         location: "Reached Motihari",
         status: "In Transit",
-        time: "2025-11-18 04:50 PM",
+        time: "2025-11-29 01:50 PM",
       },
        {
         location: "Reached Sitamarhi",
         status: "In Transit",
-        time: "2025-11-19 10:15 AM",
+        time: "2025-11-29 03:15 PM",
       },
       {
         location: "Reached Muzaffarpur",
         status: "In Transit",
-        time: "2025-11-19 03:10 PM",
+        time: "2025-11-29 06:10 PM",
       },
       {
         location: "Reached Patna...",
         status: "In Transit",
-        time: "2025-11-20 09:20 AM",
-      },
-       {
-        location: "Dispatch from Patna...",
-        status: "Patna to Ranchi Route Cleared.",
-        time: "2025-11-21 09:40 AM",
-      },
-      {
-        location: "Reached Saharsha",
-        status: "In Transit",
-        time: "2025-11-21 02:30 PM",
-      },
-      {
-        location: "Reached Begusarai",
-        status: "In Transit",
-        time: "2025-11-22 09:00 AM",
-      },
-      {
-        location: "Reached Rajgir",
-        status: "In Transit",
-        time: "2025-11-22 01:20 PM",
-      },
-      {
-        location: "Reached Koderma",
-        status: "In Transit",
-        time: "2025-11-23 09:25 AM",
-      },
-      {
-        location: "Reached Hazaribagh",
-        status: "In Transit",
-        time: "2025-11-23 04:15 PM",
-      },
-      {
-        location: "Reached Khalari",
-        status: "In Transit",
-        time: "2025-11-24 09:50 AM",
-      },
-      {
-        location: "Reached Ranchi...",
-        status: "In Transit...",
-        time: "2025-11-24 01:40 PM",
-      },
-      {
-        location: "Product Delivery Rejects.",
-        status: "Location Not Found.",
-        time: "2025-11-26 09:20 AM",
+        time: "2025-11-30 09:20 AM",
       },
     ],
   },
